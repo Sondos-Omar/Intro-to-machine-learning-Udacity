@@ -1,1 +1,1 @@
-# Intro-to-machine-learning-udaccity
+# Intro-to-machine-learning-Udacity
